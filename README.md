@@ -23,6 +23,5 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas.
 
-## Editor de vídeos nas horas vagas, contato para edições:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matteus.develeoper@gmail.com)
+
 
