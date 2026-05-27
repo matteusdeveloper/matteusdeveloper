@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus de Andrade! 👋
+# Olá, me chamo Matheus de Andrade! 👋
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Formação-brightgreen?style=for-the-badge&logo=education" alt="Status" />
