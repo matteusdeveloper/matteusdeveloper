@@ -82,8 +82,8 @@ Se você deseja conversar sobre desenvolvimento back-end, engenharia de software
   <a href="mailto:matheusandrade.developer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="linkedin.com/in/matheus-de-andrade-5a430b301" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/matheus-de-andrade-5a430b301" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
