@@ -1,4 +1,4 @@
-# Olá, eu sou o Matteus! 👋
+# Olá, eu sou o Matheus de Andrade! 👋
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Formação-brightgreen?style=for-the-badge&logo=education" alt="Status" />
@@ -15,40 +15,26 @@
 
 Sou apaixonado por decifrar problemas complexos de lógica e construir a infraestrutura invisível, mas vital, que faz aplicações robustas funcionarem com alta performance, segurança e escalabilidade. 
 
-Atualmente, estou cursando **Engenharia de Software na Estácio**, onde alinho a base teórica de estrutura de dados, arquitetura e gerência de projetos com o desenvolvimento de sistemas reais do dia a dia do mercado. Tenho sólida vivência na criação de APIs RESTful, modelagem de banco de dados e resolução de desafios práticos de ambiente de build e deploy em servidores de hospedagem.
+Atualmente, estou cursando **Engenharia de Software na Estácio**, onde alinho a base teórica de estrutura de dados, análise de algoritmos e arquitetura de sistemas com o desenvolvimento de soluções reais do mercado. Tenho sólida vivência na criação de APIs RESTful, modelagem de banco de dados, arquitetura limpa e resolução de desafios práticos de ambiente de build e deploy em servidores de hospedagem.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-#### **Back-End (Core)**
-• ☕ **Java** (Spring Boot, Spring Security, JPA/Hibernate)
-• 🐍 **Python** (Django, Django REST Framework)
-• 🔷 **Kotlin** | 🟢 **Node.js**
-
-#### **Front-End & Integração**
-• ⚛️ **React** | ⚡ **Vite** | 🎨 **Tailwind CSS** (Focado na integração fluida com ecossistemas Back-End e entrega de landing pages otimizadas)
-
-#### **Ferramentas e Arquitetura**
-• 💻 **Git & GitHub** | 🏗️ **Clean Code & Clean Architecture** | 🌐 **APIs RESTful**
-
----
-
-### 📊 Minha Stack em Badges
+### 🛠️ Tecnologias que Domino (Tecnologias & Badges)
 
 <div align="center">
-  <!-- Back-End -->
+  <!-- Back-End Core -->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <br>
-  <!-- Front-End e Outros -->
+  <!-- Front-End & Integração -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <!-- Ferramentas -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
@@ -56,24 +42,35 @@ Atualmente, estou cursando **Engenharia de Software na Estácio**, onde alinho a
 
 ### 📂 Projetos em Destaque
 
-> 💡 *Abaixo estão os projetos principais que desenvolvi para aplicar conceitos avançados de engenharia, arquitetura e integração de sistemas:*
+> 💡 *Projetos práticos desenvolvidos para aplicar conceitos avançados de engenharia, regras de negócio e arquitetura robusta:*
 
-*   **[Nome do seu Projeto Principal - Ex: E-Commerce API]**: Desenvolvido em **Java/Spring Boot**, aplicando autenticação JWT, controle de concorrência de estoque e estrutura em microsserviços. 
-*   **[Nome do segundo projeto - Ex: Finance Dashboard]**: API em **Python/Django** integrada com consumo de APIs externas para conversão de moedas e agendamento de tarefas em segundo plano.
-*   **[Nome do projeto Full-Stack - Ex: Lead Management System]**: Plataforma completa com landing page responsiva em **React + Vite + Tailwind CSS** integrada a um servidor Back-End, superando desafios reais de gerenciamento de diretórios e deploy.
+*   **Sistema de E-Commerce & Marketplace (Microsserviços)**
+    *   **Descrição:** API completa para gerenciamento de produtos, carrinho de compras e processamento de pedidos com controle estrito de concorrência de estoque.
+    *   **Destaques Técnicos:** Autenticação e autorização via JWT, divisão de responsabilidades com microsserviços e tabelas relacionais otimizadas.
+    *   **Stack:** Java (Spring Boot) ou Python (Django), Kotlin/Node.js para serviços secundários.
+
+*   **API de Gerenciamento Financeiro com Integração Externa**
+    *   **Descrição:** Sistema de finanças pessoais para registro de receitas e despesas com conversão de moedas estrangeiras em tempo real.
+    *   **Destaques Técnicos:** Consumo assíncrono de API pública de economia, agendamento de tarefas automáticas (*Cron Jobs/Schedulers*) para atualização de cotações e tratamento resiliente de falhas de rede.
+    *   **Stack:** Back-End robusto integrado ao banco de dados relacional.
+
+*   **Encurtador de URLs Otimizado**
+    *   **Descrição:** Serviço focado em performance pura que recebe links longos, gera hashes únicos de tamanho reduzido e computa métricas/estatísticas de acessos ao redirecionar.
+    *   **Destaques Técnicos:** Estruturação baseada em *Clean Architecture*, algoritmos eficientes de hashing e cobertura de código com testes unitários automatizados.
+    *   **Stack:** Back-End focado em Clean Code e qualidade de software.
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-Se você quer conversar sobre desenvolvimento back-end, arquitetura de software, ou tem uma oportunidade (Estágio / Júnior), entre em contato!
+Se você deseja conversar sobre desenvolvimento back-end, engenharia de software ou tem uma oportunidade de mercado (Estágio / Júnior), sinta-se à vontade para entrar em contato!
 
 <div align="left">
+  <a href="mailto:matheusandrade.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://linkedin.com/in/SEU_USER_DO_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seu.email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
