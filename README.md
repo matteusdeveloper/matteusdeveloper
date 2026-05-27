@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus de Andrade! 👋
+# Olá, me chamo Matheus de Andrade! 👋
 
 ### 👨‍💻 Estudante de Engenharia de Software na Estácio & Desenvolvedor Back-End Júnior
 
